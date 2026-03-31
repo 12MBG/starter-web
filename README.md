@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple website project for showing how to use Git and Github together. Adding a line for example.
+This is a simple website project for showing how to use Git and Github together. Adding a line for example, then more changes from myfeature branch too.
 ##Introduction
 
 This repository is for showing how Git and GitHub work
