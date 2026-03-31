@@ -7,8 +7,7 @@ Santiago Fajardo		David.fajardo@qubitsenergy.com
 
 # THANKS
 
-
-    All my students
+		Students
 
 # TECHNOLOGY COLOPHON
 
