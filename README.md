@@ -19,4 +19,4 @@ review.
 
 ### Copyright
 
-2026 Git.Training
+2026 Git.Training. All rights reserved.
